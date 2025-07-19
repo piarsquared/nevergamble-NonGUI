@@ -1,4 +1,4 @@
-# 🎰 Never Gamble (Terminal Edition)
+# Never Gamble (Terminal Edition)
 
 **Never Gamble** is a minimalist stock simulation game that runs entirely in your terminal.  
 No GUI. No distractions. Just raw Python logic and dangerously poor financial decisions.
