@@ -8,15 +8,16 @@ This version is a text-based prototype inspired by 2003devin's Geometry Dash lev
 
 ---
 
-## ⚙️ Features (Current Version)
+## Features (Current Version)
 
-- ❯ Terminal UI with a basic page management system
-- ❯ Command system (`help`, `clear`, `save`, `quit`, etc.) — basic but solid
-- ❯ Save file support! So you can continue your gambling addiction later.
-- ❯ Built to expand into full stock logic and ASCII graphs (eventually)
-- ❯ In the future, I do intend to make a GUI version of this if you REALLY hate using the terminal.
+- Terminal UI with a basic page management system
+- Command system (`help`, `clear`, `save`, `quit`, etc.) — basic but solid
+- Save file support! So you can continue your gambling addiction later.
+- Built to expand into full stock logic and ASCII graphs (eventually)
+- In the future, I do intend to make a GUI version of this if you REALLY hate using the terminal.
 
-> ⚠️ This is a **work in progress**. Expect some spaghetti code and placeholder features for now.
+> [!TIP]
+> This is a **work in progress**. Expect some spaghetti code and placeholder features for now.
 
 ---
 
