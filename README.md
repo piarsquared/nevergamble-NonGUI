@@ -72,5 +72,5 @@ Option 1.
 Option 2. Or clone the repo:
 
   ```bash
-  git clone https://github.com/your-username/nevergamble.git
+  git clone https://github.com/piarsquared/nevergamble.git
   cd nevergamble
