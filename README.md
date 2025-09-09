@@ -21,14 +21,6 @@ This version is a text-based prototype inspired by 2003devin's Geometry Dash lev
 
 ---
 
-## 🧠 How It Works
-
-Everything happens in the terminal.  
-You launch the game, read the output, and type commands. No mouse. No clutter.  
-No GUI frameworks — pretty much just `input()`, `os.system()`, and vibes.
-
----
-
 ## 🛠 Commands
 
 | Command | Description |
@@ -42,7 +34,7 @@ More commands (like `balance`, `gamble`, `invest`, and `graph`) coming soon.
 
 ---
 
-## 🔮 Planned Features
+## Planned Features (TBD)
 
 - [ ] Real stock simulation logic
 - [ ] ASCII graphs for fake stock trends
@@ -52,20 +44,20 @@ More commands (like `balance`, `gamble`, `invest`, and `graph`) coming soon.
 
 ---
 
-## 🙏 Credits
+## Credits
 
 Made solo by piarsquared (piar)
-Special thanks to 2003devin for the original chaotic inspiration.
+Special thanks to 2003devin for the original, um, inspiration?
 
 ---
 
 ## 🧃 License
 
-MIT. Do whatever you want with this. Just, please don't inplement real money. Please.
+MIT. Do whatever you want with this. Just, please don't implement real money. Please.
 
 ---
 
-## 💻 Running It
+## Download
 
 Option 1. 
 
